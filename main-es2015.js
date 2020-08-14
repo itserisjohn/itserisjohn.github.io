@@ -309,7 +309,7 @@ AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "p", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " I am an experienced software enigneer/developer and UI/UX javascript specialist. I enjoy writing code both for fun and professionally. I have done work in software development, mobile application, front-end/back-end web, database/server management, and game development. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " I am an experienced software engineer/developer and UI/UX javascript specialist. I enjoy writing code both for fun and professionally. I have done work in software development, mobile application, front-end/back-end web, database/server management, and game development. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](25, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, " Skilled in .NET Framework, C#, SQL, ReactJS, Redux, AngularJS and Angular 7. Strong engineering professional with a Bachelor of Science in Information Technology from Holy Cross of Davao College, Inc.. ");

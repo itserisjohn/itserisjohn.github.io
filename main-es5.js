@@ -997,7 +997,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "p", 14);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " I am an experienced software enigneer/developer and UI/UX javascript specialist. I enjoy writing code both for fun and professionally. I have done work in software development, mobile application, front-end/back-end web, database/server management, and game development. ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " I am an experienced software engineer/developer and UI/UX javascript specialist. I enjoy writing code both for fun and professionally. I have done work in software development, mobile application, front-end/back-end web, database/server management, and game development. ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "br");
 
