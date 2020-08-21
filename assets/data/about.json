@@ -21,12 +21,16 @@
       "http": "https://github.com/itserisjohn"
     },
     {
-      "icon": "facebook",
-      "title": "Facebook",
-      "http": "https://www.facebook.com/itserisjohn"
+      "icon": "youtube",
+      "title": "Youtube",
+      "http": "https://www.youtube.com/channel/UCHN8Bu9Ciye_Og4sIWWZK0w"
     }
   ],
   "hobbies": [
+    {
+      "icon": "gamepad",
+      "title": "Travel"
+    },
     {
       "icon": "guitar",
       "title": "Cycling"
@@ -34,10 +38,6 @@
     {
       "icon": "music",
       "title": "Gym"
-    },
-    {
-      "icon": "gamepad",
-      "title": "Travel"
     },
     {
       "icon": "book",

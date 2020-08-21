@@ -1,9 +1,99 @@
 [
   {
+    "thumbnail": "../../assets/posts/jeepps.png",
+    "http": "",
+    "date": "01-01-2016",
+    "text": "JeepPS: Jeepney Route Guide for Davao City",
+    "internationalizations": [
+      {
+        "language": "en",
+        "title": "The anti-traversing 2D Array formula.",
+        "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+      },
+      {
+        "language": "pt",
+        "title": "A fórmula de matriz 2D anti-deslocamento.",
+        "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+      }
+    ]
+  },
+  {
+    "thumbnail": "../../assets/posts/atmi.png",
+    "http": "",
+    "date": "01-01-2017",
+    "text": "Distribution Management System",
+    "internationalizations": [
+      {
+        "language": "en",
+        "title": "The anti-traversing 2D Array formula.",
+        "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+      },
+      {
+        "language": "pt",
+        "title": "A fórmula de matriz 2D anti-deslocamento.",
+        "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+      }
+    ]
+  },
+  {
+    "thumbnail": "../../assets/posts/redknight.png",
+    "http": "",
+    "date": "01-01-2017",
+    "text": "Hotel Management System",
+    "internationalizations": [
+      {
+        "language": "en",
+        "title": "The anti-traversing 2D Array formula.",
+        "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+      },
+      {
+        "language": "pt",
+        "title": "A fórmula de matriz 2D anti-deslocamento.",
+        "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+      }
+    ]
+  },
+  {
+    "thumbnail": "../../assets/posts/payroll.png",
+    "http": "",
+    "date": "01-01-2018",
+    "text": "Lyanthe Payroll System",
+    "internationalizations": [
+      {
+        "language": "en",
+        "title": "The anti-traversing 2D Array formula.",
+        "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+      },
+      {
+        "language": "pt",
+        "title": "A fórmula de matriz 2D anti-deslocamento.",
+        "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+      }
+    ]
+  },
+  {
+    "thumbnail": "../../assets/posts/mfo.png",
+    "http": "",
+    "date": "01-01-2019",
+    "text": "Accounting System",
+    "internationalizations": [
+      {
+        "language": "en",
+        "title": "The anti-traversing 2D Array formula.",
+        "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+      },
+      {
+        "language": "pt",
+        "title": "A fórmula de matriz 2D anti-deslocamento.",
+        "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+      }
+    ]
+  },
+  {
     "thumbnail": "../../assets/posts/optx.png",
     "http": "",
     "date": "01-01-2020",
-    "text": "OPTX Customer Relationship Management for Casino Clients",
+    "text": "OPTX Customer Relationship Management for Casinos",
     "internationalizations": [
       {
         "language": "en",
