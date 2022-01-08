@@ -29,19 +29,19 @@
   "hobbies": [
     {
       "icon": "gamepad",
-      "title": "Travel"
+      "title": "Gaming"
     },
     {
       "icon": "guitar",
-      "title": "Cycling"
+      "title": "Guitar"
     },
     {
       "icon": "music",
-      "title": "Gym"
+      "title": "Music"
     },
     {
       "icon": "book",
-      "title": "Read"
+      "title": "Reading"
     }
   ]
 }
